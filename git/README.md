@@ -20,7 +20,7 @@ git push
 
 ## Practica
 
-1. Crear una carpeta dentro de la carpeta git `/git/` (nombre de la carpeta a libre elección).
-2. Dentro de la nueva carpeta crea un archivo (nombre a libre elección).
-3. En archivo nuevo escribir el nombre de la carpeta, el nombre del archivo y algún mensaje de confirmación de la tarea.
+1. Crear una carpeta dentro de la carpeta git `/git/` (nombre de la carpeta a libre elección. Nombre: xxx).
+2. Dentro de la nueva carpeta crea un archivo (nombre a libre elección. Nombre: xxx).
+3. En el archivo nuevo escribir el nombre de la carpeta, el nombre del archivo y algún mensaje de confirmación de la tarea.
 4. Subir cambio al repositorio.
